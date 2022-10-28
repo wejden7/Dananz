@@ -1,0 +1,10 @@
+export {default  as Header} from './Header';
+export {default as Footer} from './Footer';
+export {default as Logo} from './logo';
+export {default as Divider} from './divider';
+export {default as Details} from './details';
+export {default as MiniTitle} from './MiniTitle';
+export {default as TopPage} from './TopPage';
+export {default as Product} from './Product'
+export {default as Service} from './Service'
+export {default as TemporaryDrawer} from './Drawer'
